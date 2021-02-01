@@ -1,5 +1,5 @@
 # Project Description
-MarketAI.exe allows you to detect and recognize faces, texts, and objects. User can either use the local computer or an Arduino module to input data. It supports real-time face detection, face recognition and object recognition. It is built using java on the Spring Boot framework with the help of OpenCV (4.5.1) library. 
+MarketAI.exe allows you to detect and recognize faces, texts, and objects. User can either use the local computer or an Arduino module to input data. It supports real-time face detection, face recognition and object recognition. It is built using Java on the Spring Boot framework with the help of OpenCV (4.5.1) library. This team project, consisting of two members, was undertaken as part of an internship with RoyaltyBusayo.
 
 # Prerequisites
 1. Minimum version of JRE required : 1.7
