@@ -16,7 +16,7 @@ MarketAI.exe allows you to detect and recognize faces, texts, and objects. User 
        ..Properties > Port Settings > Advanced.. 
        > COM Port Number > /Select Your Port Number/
    3.3 In MarketAI.exe, select: File > Read Image from Arduino
-- - - -
+   
 # Features
 ## Detect Faces ##
 After uploading an image, the user can select ***Detect Faces*** option from the ***Features*** tab in the GUI. An image would be displayed highlighting the faces in the image with the no. of faces detected.
